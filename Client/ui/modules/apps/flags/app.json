@@ -2,5 +2,8 @@
   "name": "Yellow Flag",
   "description": "Displays a yellow flag when toggled.",
   "author": "bandzonfire",
-  "version": "1.0"
+  "version": "1.0",
+  "directive": "yellow-flag",
+  "domElement": "<yellow-flag></yellow-flag>",
+  "types": ["ui.apps.categories.unknown"]
 }
