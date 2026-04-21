@@ -1,0 +1,9 @@
+{
+    "toggle_yellow_flag": {
+        "order": 1,
+        "onUp": "extensions.yellowFlagLogic.toggleFlag()",
+        "title": "Toggle Yellow Flag",
+        "desc": "Shows or hides the yellow UI rectangle",
+        "category": "General"
+    }
+}
